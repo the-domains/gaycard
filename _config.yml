@@ -1,0 +1,12 @@
+layout_spectrum: 0.495614
+color:
+  saturation: 0.6127819
+  lightness: 0.9543666
+  brandStrength: 1
+  brandColors:
+    - '#214EA5'
+    - '#000000'
+    - '#153168'
+  rhythmicContrast: 0.6998747
+typography_spectrum: 0.6027569
+name: GayCard
